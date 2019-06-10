@@ -184,6 +184,9 @@ collections:
   cover-arts:
     output: true
     permalink: /:collection/:path/
+  drone-shots:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
