@@ -2,7 +2,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /teaching/    
+    url: /research/    
   
   - title: "Publications"
     url: /publications/
@@ -14,4 +14,4 @@ main:
     url: /cv/
     
   - title: "Cover Arts"
-    url: /year-archive/
+    url: /cover-arts/
