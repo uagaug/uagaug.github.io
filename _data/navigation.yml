@@ -12,6 +12,5 @@ main:
   - title: "CV"
     url: /cv/
     
-- title: "Cover Arts"
+  - title: "Cover Arts"
     url: /coverarts/
-    
