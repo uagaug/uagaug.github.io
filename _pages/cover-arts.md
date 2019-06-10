@@ -5,6 +5,8 @@ permalink: /cover-arts/
 author_profile: true
 ---
 
+Under Construction
+
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
