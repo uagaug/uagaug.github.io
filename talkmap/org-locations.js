@@ -10,7 +10,7 @@ var addressPoints = [
     116.3912757
   ],
   [
-    "San Ljubljana, Slovenia",
+    "Ljubljana, Slovenia",
     46.0498146,
     14.5067824
   ],
