@@ -29,14 +29,14 @@ Cover art by Demin Liu, MolGraphics
 
 Cover art by Demin Liu, MolGraphics
 
-![alt-text-1](/files/DNA_like.jpg "Cover by MolGraphics"){:height="50%" width="50%"} 
+![](/files/DNA_like.jpg "Cover by MolGraphics"){:height="50%" width="50%"} 
 
 <!--!Inessa Stanishevskaya, Cognition Studio ![alt-text-2](/files/Cranes.jpg "Cover by Cognition Studio"){:height="50%" width="50%"}-->
 
 [4] Lu, P., Min, D., DiMaio, F., Wei, K.Y., Vahey, M.D., Boyken, S.E., **Chen, Z.**, Fallas, J.A., Ueda, G., Sheffler, W., Mulligan, V.K., Xu, W., Bowie, J.U., Baker, D.
 (2018). Accurate computational design of multipass transmembrane proteins. *Science* 359, 1042-1046.
 
-* Membrane proteins were notoriously hard to work with, but Peilong took our soluble helical bundles and convincingly turned them into membrane proteins. What is next, _de novo_ designed membrane channels? [PDF](/files/Lu et al. 2018 - Accurate computational design of multipass transmembrane proteins.pdf)
+* Membrane proteins have been notoriously hard to work with, but turns out our soluble helical bundles could be re-engineered into membrane proteins. What is next, _de novo_ designed membrane channels? [PDF](/files/Lu et al. 2018 - Accurate computational design of multipass transmembrane proteins.pdf)
 
 [3] Thubagere, A.J., Li, W., Johnson, R.F., **Chen, Z.**, Doroudi, S., Lee, Y.L., Izatt, G., Wittman, S., Srinivas, N., Woods, D., Winfree, E., Qian, L. (2017). A cargo-sorting DNA robot. *Science* 357, eaan6558.
 
