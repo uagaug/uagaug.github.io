@@ -13,8 +13,8 @@ main:
   - title: "CV"
     url: /files/CV_ZiboChen.pdf
     
-  - title: "Cover Arts"
-    url: /cover-arts/
+ # - title: "Cover Arts"
+ #   url: /cover-arts/
     
   - title: "Aerial Photography"
     url: /drone-shots/
