@@ -17,7 +17,9 @@ author_profile: true
 
 * Back in 2011 when I was an undergrad working on DNA origami I wondered when we could build "protein origamis". Eight years later I designed and verified such tiny structures! [PDF](/files/2019jacs.pdf)
 
-Cover art by Demin Liu, MolGraphics
+Cover art by Demin Liu, MolGraphics            |  
+:-------------------------:|:-------------------------:
+![](/files/jacs1.jpg)  |  ![](/files/jacs2.jpg)
 
 ![alt text](/files/jacs1.jpg "Cover by Demin Liu") ![alt text](/files/jacs2.jpg "Cover by Demin Liu")
 
@@ -28,6 +30,10 @@ Cover art by Demin Liu, MolGraphics
 Cover art by Demin Liu, MolGraphics || Inessa Stanishevskaya, Cognition Studio
 
 ![alt text](/files/DNA_like.jpg "Cover by Demin Liu") ![alt text](/files/Cranes.jpg "Cover by Cognition Studio")
+
+Cover art by Demin Liu, MolGraphics            |  Inessa Stanishevskaya, Cognition Studio
+:-------------------------:|:-------------------------:
+![](/files/DNA_like.jpg)  |  ![](/files/Cranes.jpg)
 
 [4] Lu, P., Min, D., DiMaio, F., Wei, K.Y., Vahey, M.D., Boyken, S.E., **Chen, Z.**, Fallas, J.A., Ueda, G., Sheffler, W., Mulligan, V.K., Xu, W., Bowie, J.U., Baker, D.
 (2018). Accurate computational design of multipass transmembrane proteins. *Science* 359, 1042-1046.
