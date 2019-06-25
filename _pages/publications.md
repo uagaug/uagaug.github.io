@@ -19,15 +19,19 @@ author_profile: true
 
 Cover art by Demin Liu, MolGraphics
 
-![](/files/jacs1.jpg "Cover by MolGraphics"){:height="50%" width="50%"} ![](/files/jacs2.jpg "Cover by MolGraphics"){:height="50%" width="50%"}
+![](/files/jacs1.jpg "Cover by MolGraphics"){:height="50%" width="50%"} 
+
+<!--![alt-text-2](/files/jacs2.jpg "Cover by MolGraphics"){:height="50%" width="50%"}-->
 
 [5] **Chen, Z.**, Boyken, S.E., Jia, M., Busch, F., Flores-Solis, D., Bick, M.J., Lu, P., Van Aernum, Z.L., Sahasrabuddhe, A., Langan, R.A., Bermeo, S., Brunette, T., Mulligan, V.K., Carter, L.P., DiMaio, F., Sgourakis, N.G., Wysocki, V.H., Baker, D. (2019). Programmable design of orthogonal protein heterodimers. *Nature* 565, 106-111.
 
 * We created a large set of _de novo_ protein heterodimers, which bind to each other specifically via the protein version of Watson-Crick base pairing. This set of orthogonal heterodimers should enable a variety of synthetic biology applications (protein logic gates, bio-orthogonal circuits, etc.) [PDF](/files/2018nature.pdf), [The Economist](https://www.economist.com/technology-quarterly/2019/04/04/the-engineering-of-living-organisms-could-soon-start-changing-everything), [Phys.org](https://phys.org/news/2018-12-scientists-proteins-pair.html)
 
-Cover art by Demin Liu, MolGraphics and Inessa Stanishevskaya, Cognition Studio
+Cover art by Demin Liu, MolGraphics
 
-![](/files/DNA_like.jpg "Cover by MolGraphics"){:height="50%" width="50%"} ![](/files/Cranes.jpg "Cover by Cognition Studio"){:height="50%" width="50%"}
+![alt-text-1](/files/DNA_like.jpg "Cover by MolGraphics"){:height="50%" width="50%"} 
+
+<!--!Inessa Stanishevskaya, Cognition Studio ![alt-text-2](/files/Cranes.jpg "Cover by Cognition Studio"){:height="50%" width="50%"}-->
 
 [4] Lu, P., Min, D., DiMaio, F., Wei, K.Y., Vahey, M.D., Boyken, S.E., **Chen, Z.**, Fallas, J.A., Ueda, G., Sheffler, W., Mulligan, V.K., Xu, W., Bowie, J.U., Baker, D.
 (2018). Accurate computational design of multipass transmembrane proteins. *Science* 359, 1042-1046.
