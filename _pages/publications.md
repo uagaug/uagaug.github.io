@@ -21,6 +21,8 @@ author_profile: true
 
 * We created a large set of _de novo_ protein heterodimers, which bind to each other specifically via the protein version of Watson-Crick base pairing. This set of orthogonal heterodimers should enable a variety of synthetic biology applications (protein logic gates, bio-orthogonal circuits, etc.) [PDF](/files/2018nature.pdf)
 
+* [The Economist](https://www.economist.com/technology-quarterly/2019/04/04/the-engineering-of-living-organisms-could-soon-start-changing-everything), [Phys.org](https://phys.org/news/2018-12-scientists-proteins-pair.html)
+
 [4] Lu, P., Min, D., DiMaio, F., Wei, K.Y., Vahey, M.D., Boyken, S.E., **Chen, Z.**, Fallas, J.A., Ueda, G., Sheffler, W., Mulligan, V.K., Xu, W., Bowie, J.U., Baker, D.
 (2018). Accurate computational design of multipass transmembrane proteins. *Science* 359, 1042-1046.
 
@@ -33,6 +35,8 @@ author_profile: true
 [2] Boyken, S.E., **Chen, Z.**, Groves, B., Langan, R.A., Oberdorfer, G., Ford, A., Gilmore, J.M., Xu, C., DiMaio, F., Pereira, J.H., Sankaran, B., Seelig, G., Zwart, P.H., Baker, D. (2016). De novo design of protein homo-oligomers with modular hydrogen-bond network-mediated specificity. *Science* 352, 680-687.
 
 * DNA uses Watson-Crick base pairing to confer binding specificity (A binds T, and C binds G). What if we could create such pairing code in proteins from scratch? [PDF](/files/2016science.pdf)
+
+* [Science Perspective](https://science.sciencemag.org/content/352/6286/657), [Geekwire](https://www.geekwire.com/2016/uw-researchers-add-new-twists-protein-designs/)
 
 [1] **Chen, Z.**, Tan, J.Y., Wen, Y., Niu, S., Wong, S.-M. (2012). A game-theoretic model of interactions between Hibiscus latent Singapore virus and tobacco mosaic virus. *PLoS One* 7, e37007.
 
