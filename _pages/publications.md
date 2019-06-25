@@ -17,17 +17,17 @@ author_profile: true
 
 * Back in 2011 when I was an undergrad working on DNA origami I wondered when we could build "protein origamis". Eight years later I designed and verified such tiny structures! [PDF](/files/2019jacs.pdf)
 
-![alt text](/files/jacs1.jpg "Cover by Demin Liu")
+Cover art by Demin Liu, MolGraphics
 
-![alt text](/files/jacs2.jpg "Cover by Demin Liu")
+![alt text](/files/jacs1.jpg "Cover by Demin Liu") ![alt text](/files/jacs2.jpg "Cover by Demin Liu")
 
 [5] **Chen, Z.**, Boyken, S.E., Jia, M., Busch, F., Flores-Solis, D., Bick, M.J., Lu, P., Van Aernum, Z.L., Sahasrabuddhe, A., Langan, R.A., Bermeo, S., Brunette, T., Mulligan, V.K., Carter, L.P., DiMaio, F., Sgourakis, N.G., Wysocki, V.H., Baker, D. (2019). Programmable design of orthogonal protein heterodimers. *Nature* 565, 106-111.
 
 * We created a large set of _de novo_ protein heterodimers, which bind to each other specifically via the protein version of Watson-Crick base pairing. This set of orthogonal heterodimers should enable a variety of synthetic biology applications (protein logic gates, bio-orthogonal circuits, etc.) [PDF](/files/2018nature.pdf), [The Economist](https://www.economist.com/technology-quarterly/2019/04/04/the-engineering-of-living-organisms-could-soon-start-changing-everything), [Phys.org](https://phys.org/news/2018-12-scientists-proteins-pair.html)
 
-![alt text](/files/DNA_like.jpg "Cover by Demin Liu")
+Cover art by Demin Liu, MolGraphics || Inessa Stanishevskaya, Cognition Studio
 
-![alt text](/files/Cranes.jpg "Cover by Cognition Studios")
+![alt text](/files/DNA_like.jpg "Cover by Demin Liu") ![alt text](/files/Cranes.jpg "Cover by Cognition Studio")
 
 [4] Lu, P., Min, D., DiMaio, F., Wei, K.Y., Vahey, M.D., Boyken, S.E., **Chen, Z.**, Fallas, J.A., Ueda, G., Sheffler, W., Mulligan, V.K., Xu, W., Bowie, J.U., Baker, D.
 (2018). Accurate computational design of multipass transmembrane proteins. *Science* 359, 1042-1046.
