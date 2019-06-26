@@ -31,8 +31,8 @@ iframe#embed
 {
     width:800px;       /* set this to approximate width of entire page you're embedding */
     height:800px;      /* determines where the bottom of the page cuts off */
-    margin-left:-183px; /* clipping left side of page */
-    margin-top:-244px;  /* clipping top of page */
+    margin-left:-400px; /* clipping left side of page */
+    margin-top:-400px;  /* clipping top of page */
     overflow:hidden;
 
     /* resize seems to inherit in at least Firefox */
@@ -44,6 +44,6 @@ iframe#embed
 </head>
 
 <div id="container">
-  <iframe src="https://www.skypixel.com/photo360s/e4cb5e90-1e36-4dae-a902-9bf22fb9e337" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe>
+  <iframe src="https://www.skypixel.com/photo360s/e4cb5e90-1e36-4dae-a902-9bf22fb9e337" id="embed"></iframe>
 </div>
 
