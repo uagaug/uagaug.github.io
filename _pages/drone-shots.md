@@ -11,7 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## I love to travel with my DJI Mavic Pro, here are some aerial images I have taken.
+## I love to travel with my DJI Mavic Pro, here are some aerial photos I have taken.
 <html>
 <head>
 <style>
@@ -46,6 +46,6 @@ iframe#embed
 </head>
 
 <div id="container">
-  <iframe src="https://www.skypixel.com/photo360s/e4cb5e90-1e36-4dae-a902-9bf22fb9e337" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" allowfullscreen></iframe>
+  <iframe src="https://www.skypixel.com/photo360s/e4cb5e90-1e36-4dae-a902-9bf22fb9e337" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="400px" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe>
 </div>
 </html>
