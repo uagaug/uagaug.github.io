@@ -15,7 +15,7 @@ var addressPoints = [
     14.5067824
   ],
   [
-    "Leavenworth, Washington",
+    "Leavenworth, Washington, USA",
     47.5969138,
     -120.6610816
   ],
@@ -25,7 +25,7 @@ var addressPoints = [
     121.4890497
   ],
   [
-    "Seattle, Washington",
+    "Seattle, USA",
     47.6038321,
     -122.3300624
   ],
