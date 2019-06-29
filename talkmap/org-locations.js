@@ -30,6 +30,11 @@ var addressPoints = [
     -122.3300624
   ],
   [
+    "Pasadena, USA",
+    34.1476452,
+    -118.1444779
+  ],
+  [
     "Lindau, Germany",
     47.550753,
     9.6926624
