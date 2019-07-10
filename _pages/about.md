@@ -14,4 +14,4 @@ I received my Ph.D. from the University of Washington with [David Baker](https:/
 
 As an undergrad I worked with [Erik Winfree](http://www.dna.caltech.edu/~winfree/) and [Lulu Qian](http://www.qianlab.caltech.edu/) at Caltech to build cargo-sorting [DNA robots](/files/Thubagere et al. 2017 - A cargo-sorting DNA robot.pdf) &mdash; perhaps the world's smallest couriers. 
 
-You can go further back in time and learn about my origins (may require registration) [here](https://you.23andme.com/published/reports/71536fe36d9f4a35a69dc5f73d704702/?share_id=65d6623a7761465a) and [here](https://you.23andme.com/published/reports/898873539e4546698d7ed2569c455fa6/?share_id=5ab57134abb2478b).
+You can go further back in time and learn about my origin (may require registration) [here](https://you.23andme.com/published/reports/71536fe36d9f4a35a69dc5f73d704702/?share_id=65d6623a7761465a) and [here](https://you.23andme.com/published/reports/898873539e4546698d7ed2569c455fa6/?share_id=5ab57134abb2478b).
