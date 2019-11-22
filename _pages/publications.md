@@ -6,7 +6,7 @@ author_profile: true
 ---
 [10] **Chen, Z.** (2019). Creating the protein version of DNA base pairing. Science 366, 965-965.
 
-* This essay, summarizing my PhD work, wins me the 2019 [Science & SciLifeLab Prize](https://www.sciencemag.org/2019-scilifelab-winners?utm_campaign=nyhetsbrev&utm_medium=email&utm_source=apsis). It describes a way to achieve DNA-like programmable specificity in proteins via computational design, which extends to the creation of a large set of orthogonal protein heterodimers, protein-based logic gates that operate in living cells, and lego-like proteins that self-assemble into two-dimensional materials. [PDF](/files/Chen 2019 SciLifeLab Prize Essay.pdf)
+* This [Science & SciLifeLab Prize](https://www.sciencemag.org/2019-scilifelab-winners?utm_campaign=nyhetsbrev&utm_medium=email&utm_source=apsis) essay summarizes my PhD work. It describes a way to achieve DNA-like programmable specificity in proteins via computational design, which extends to the creation of a large set of orthogonal protein heterodimers, protein-based logic gates that operate in living cells, and lego-like proteins that self-assemble into two-dimensional materials. [PDF](/files/Chen 2019 SciLifeLab Prize Essay.pdf)
 
 [9] Langan, R.A., Boyken, S.E., Ng, A.H., Samson, J.A., Dods, G., Westbrook, A.M., Nguyen, T.H., Lajoie, M.J., **Chen, Z.**, Berger, S., Mulligan, V.K., Dueber, J.E., Novak, W.R.P., El-Samad, H., Baker, D., 2019. De novo design of bioactive protein switches. Nature 572, 205–210.
 
