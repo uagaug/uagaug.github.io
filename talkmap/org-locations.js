@@ -5,6 +5,16 @@ var addressPoints = [
     120.2052342
   ],
   [
+    "Uppsala, Sweden",
+    59.8586126,
+    17.6387436
+  ],
+  [
+    "Solna, Sweden",
+    59.361367,
+    18.0013693
+  ],
+  [
     "Beijing, China",
     39.906217,
     116.3912757
