@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[11] VanAernum, Z.L., Busch, F., Jones, B.J., Jia, M., **Chen, Z.**, Boyken, S.E., Sahasrabuddhe, A., Baker, D., Wysocki, V.H. (2020). Rapid online buffer exchange for screening of proteins, protein complexes and cell lysates by native mass spectrometry. _**Nature Protocols**_
+
+* Native mass spectrometry is a technique that reveals the mass of protein complexes without destroying the non-covalent bonds that hold them together. Our collaboration with the Wysocki lab at OSU has been extremely fruitful, and here is a detailed protocol for doing high throughput native mass spectrometry, a core technique we used in Ref [5]. [PDF](/files/VanAernum et al. 2020 - Rapid online buffer exchange for screening of proteins, protein complexes and cell lysates by native mass spectrometry.pdf)
+
 [10] **Chen, Z.** (2019). Creating the protein version of DNA base pairing. _**Science**_ 366, 965-965.
 
 * This [Science & SciLifeLab Prize](https://www.sciencemag.org/2019-scilifelab-winners?utm_campaign=nyhetsbrev&utm_medium=email&utm_source=apsis) essay summarizes my PhD work. It describes a way to achieve DNA-like programmable specificity in proteins via computational design, which extends to the creation of a large set of orthogonal protein heterodimers, protein-based logic gates that operate in living cells, and lego-like proteins that self-assemble into two-dimensional materials. [PDF](/files/Chen 2019 SciLifeLab Prize Essay.pdf)
