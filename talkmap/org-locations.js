@@ -21,8 +21,8 @@ var addressPoints = [
   ],
   [
     "Ljubljana, Slovenia",
-    46.0498146,
-    14.5067824
+    46.0499803,
+    14.5068602
   ],
   [
     "Leavenworth, Washington, USA",
@@ -31,13 +31,18 @@ var addressPoints = [
   ],
   [
     "Shanghai, China",
-    31.2322735,
-    121.4691749
+    31.2322758,
+    121.4692071
   ],
   [
     "Seattle, USA",
     47.6038321,
     -122.3300624
+  ],
+  [
+    "Boston, USA",
+    42.3602534,
+    -71.0582912
   ],
   [
     "Pasadena, USA",
