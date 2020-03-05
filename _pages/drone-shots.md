@@ -5,7 +5,15 @@ permalink: /drone-shots/
 author_profile: true
 ---
 
-## I love traveling with my DJI Mavic Pro, here are some aerial photos I have taken.
+## I love traveling with my DJI Mavic Pro. In 2019 I started my private pilot training. Here are some aerial photos taken from the Mavic, or a Cessna.
+
+### 2020 February Ontario Airport
+Passed by Ontario International Airport (KNOT) on my cross country solo training. 
+![](/images/IMG_2562.JPG){:width="800px"}
+
+### 2020 February Catalina Island
+Landing at Catalina Airport (KAVX) felt like landing on an aircraft carrier -- the runway has 1,600 feet of elevation and sits in between two cliffs. No wonder it is called the airport in the sky! Here is a cloudy version of that macOS Catalina desktop image.
+![](/images/IMG_2411.JPG){:width="800px"}
 
 ### 2019 December Stockholm, Sweden
 <iframe src="https://www.skypixel.com/photos/play/191213-stockholm?buttons=on" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe>
