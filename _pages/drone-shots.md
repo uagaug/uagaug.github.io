@@ -13,6 +13,8 @@ Passed by Ontario International Airport (KNOT) on my cross country solo training
 
 ### 2020 February Catalina Island
 Landing at Catalina Airport (KAVX) felt like landing on an aircraft carrier -- the runway has 1,600 feet of elevation and sits in between two cliffs. No wonder it is called the airport in the sky! Here is a cloudy version of that macOS Catalina desktop image.
+
+
 ![](/images/IMG_2411.JPG){:width="800px"}
 
 ### 2019 December Stockholm, Sweden
