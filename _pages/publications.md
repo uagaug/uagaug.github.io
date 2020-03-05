@@ -12,7 +12,7 @@ author_profile: true
 
 * This [Science & SciLifeLab Prize](https://www.sciencemag.org/2019-scilifelab-winners?utm_campaign=nyhetsbrev&utm_medium=email&utm_source=apsis) essay summarizes my PhD work. It describes a way to achieve DNA-like programmable specificity in proteins via computational design, which extends to the creation of a large set of orthogonal protein heterodimers, protein-based logic gates that operate in living cells, and lego-like proteins that self-assemble into two-dimensional materials. [PDF](/files/Chen 2019 SciLifeLab Prize Essay.pdf)
 
-[9] Langan, R.A., Boyken, S.E., Ng, A.H., Samson, J.A., Dods, G., Westbrook, A.M., Nguyen, T.H., Lajoie, M.J., **Chen, Z.**, Berger, S., Mulligan, V.K., Dueber, J.E., Novak, W.R.P., El-Samad, H., Baker, D., 2019. De novo design of bioactive protein switches. _**Nature**_ 572, 205–210.
+[9] Langan, R.A., Boyken, S.E., Ng, A.H., Samson, J.A., Dods, G., Westbrook, A.M., Nguyen, T.H., Lajoie, M.J., **Chen, Z.**, Berger, S., Mulligan, V.K., Dueber, J.E., Novak, W.R.P., El-Samad, H., Baker, D., (2019). De novo design of bioactive protein switches. _**Nature**_ 572, 205–210.
 
 * Here is a protein that is able to change conformation, designed based on a homotrimer from Ref [2]. [PDF](/files/Langan et al. 2019 - De novo design of bioactive protein switches.pdf)
 
