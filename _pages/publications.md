@@ -14,7 +14,7 @@ author_profile: true
 
 [9] Langan, R.A., Boyken, S.E., Ng, A.H., Samson, J.A., Dods, G., Westbrook, A.M., Nguyen, T.H., Lajoie, M.J., **Chen, Z.**, Berger, S., Mulligan, V.K., Dueber, J.E., Novak, W.R.P., El-Samad, H., Baker, D., 2019. De novo design of bioactive protein switches. _**Nature**_ 572, 205–210.
 
-* Here is a protein that is able to change conformation, designed based on a homotrimer from [2]. [PDF](/files/Langan et al. 2019 - De novo design of bioactive protein switches.pdf)
+* Here is a protein that is able to change conformation, designed based on a homotrimer from Ref [2]. [PDF](/files/Langan et al. 2019 - De novo design of bioactive protein switches.pdf)
 
 [8] Cao, L., Yu, B., Kong, D., Cong, Q., Yu, T., **Chen, Z.**, Hu, Z., Chang, H., Zhong, J., Baker, D., He, Y., (2019). Functional expression and characterization of the envelope glycoprotein E1E2 heterodimer of hepatitis C virus. _**PLoS Pathog.**_ 15, e1007759.
 
