@@ -6,7 +6,7 @@ author_profile: true
 ---
 [12] **Chen, Z.**, Kibler, R.D., Hunt, A., Busch, F., Pearl, J., Jia, M., VanAernum, Z.L., Wicky, B.I.M., Dods, G., Liao, H., Wilken, M.S., Ciarlo, C., Green, S., El-Samad, H., Stamatoyannopoulos, J., Wysocki, V.H., Jewett, M.C., Boyken, S.E., Baker, D., (2020). De novo design of protein logic gates. _**Science**_ 368, 7884.
 
-* Synthetic biology has traditionally focused on building nucleic acid-based circuits, thanks to the ease of programming DNA or RNA molecules. Now that we have proteins that behave in a similar way (Refs 2, 5, 10), wouldn't it be fun to build protein-based circuits? Here we demonstrate, on the molecular level, a way to create logic gates from scratch, using _de novo_ designed heterodimers. These _de novo_ designed building blocks offer not only programmability, but also transferability: they work as purified proteins, in cell-free extracts, yeasts, and T cells. [PDF] (/files/2020science.pdf)
+* Synthetic biology has traditionally focused on building nucleic acid-based circuits, thanks to the ease of programming DNA or RNA molecules. Now that we have proteins that behave in a similar way (Refs 2, 5, 10), wouldn't it be fun to build protein-based circuits? Here we demonstrate, on the molecular level, a way to create logic gates from scratch, using _de novo_ designed heterodimers. These _de novo_ designed building blocks offer not only programmability, but also robustness and transferability: they work as purified proteins, in cell-free extracts, yeasts, and T cells. [PDF] (/files/2020science.pdf)
 
 Cover art by Demin Liu, MolGraphics
 
