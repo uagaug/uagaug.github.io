@@ -4,6 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[12] **Chen, Z.**, Kibler, R.D., Hunt, A., Busch, F., Pearl, J., Jia, M., VanAernum, Z.L., Wicky, B.I.M., Dods, G., Liao, H., Wilken, M.S., Ciarlo, C., Green, S., El-Samad, H., Stamatoyannopoulos, J., Wysocki, V.H., Jewett, M.C., Boyken, S.E., Baker, D., (2020). De novo design of protein logic gates. _**Science**_ 368, 7884.
+
+* Synthetic biology has traditionally focused on building nucleic acid-based circuits, thanks to the ease of programming DNA or RNA molecules. Now that we have proteins that behave in a similar way (Refs 2, 5, 10), wouldn't it be fun to build protein-based circuits? Here we demonstrate, on the molecular level, a way to create logic gates from scratch, using _de novo_ designed heterodimers. These _de novo_ designed building blocks offer not only programmability, but also transferability: they work as purified proteins, in cell-free extracts, yeasts, and T cells. [PDF] (/files/2020science.pdf)
+
+Cover art by Demin Liu, MolGraphics
+
+![](/files/logic.jpeg "Cover by MolGraphics"){:height="50%" width="50%"} 
+
 [11] VanAernum, Z.L., Busch, F., Jones, B.J., Jia, M., **Chen, Z.**, Boyken, S.E., Sahasrabuddhe, A., Baker, D., Wysocki, V.H. (2020). Rapid online buffer exchange for screening of proteins, protein complexes and cell lysates by native mass spectrometry. _**Nature Protocols**_
 
 * Native mass spectrometry is a technique that reveals the mass of protein complexes without destroying the non-covalent bonds that hold them together. Our collaboration with the Wysocki lab at OSU has been extremely fruitful, and here is a detailed protocol for doing high throughput native mass spectrometry, a core technique we used in Ref [5]. [PDF](/files/VanAernum et al. 2020 - Rapid online buffer exchange for screening of proteins, protein complexes and cell lysates by native mass spectrometry.pdf)
