@@ -8,7 +8,7 @@ author_profile: true
 ## I love traveling with my DJI Mavic Pro. In 2019 I started my private pilot training. Here are some aerial photos taken from the Mavic, or a Cessna.
 
 ### 2020 February Ontario Airport
-Passed by Ontario International Airport (KNOT) on my cross country solo training. 
+Passed by Ontario International Airport (KNOT) on my cross country solo flight. 
 ![](/images/IMG_2562.JPG){:width="800px"}
 
 ### 2020 February Catalina Island
