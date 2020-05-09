@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2020 May SoCal Logistics Airport
 The airline indistry was hit hard by the COVID-19 pandemic. Where do they park all those planes not in use? Turns out Runway 3/21 at Victorville (KVCV) was used to stroe some of these unused jets. The controller graciously allowed me to fly over this runway and see these birds eager to get back to the sky. 
-![](/images/KVCV.PNG){:width="800px"}
+![](/images/KVCV.png){:width="800px"}
 
 ### 2020 February Ontario Airport
 Passed by Ontario International Airport (KNOT) on my cross country solo flight. 
