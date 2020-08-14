@@ -9,6 +9,8 @@ author_profile: true
 
 ### 2020 Aug Los Angeles International Airport
 I passed my checkride and am now a private pilot! Took a friend of mine for an aerial tour of Los Angeles. We followed the Special Flight Rule near Santa Monica and passed right above LAX. Can you spot the jet that is about to land at Runway 24R?
+
+
 ![](/images/200810LAX.jpg){:width="800px"}
 
 ### 2020 May SoCal Logistics Airport
