@@ -7,6 +7,10 @@ author_profile: true
 
 ## I love traveling with my DJI Mavic Pro. In 2019 I started my private pilot training. Here are some aerial photos taken from the Mavic, or a Cessna.
 
+### 2020 Aug Los Angeles International Airport
+I passed my checkride and am now a private pilot! Took a friend of mine for an aerial tour of Los Angeles. We followed the Special Flight Rule near Santa Monica and passed right above LAX. Can you spot the jet that is about to land at Runway 24R?
+![](/images/200810LAX.png){:width="800px"}
+
 ### 2020 May SoCal Logistics Airport
 The airline industry was hit hard by the COVID-19 pandemic. Where do they park all those planes not in use? Turns out Runway 3/21 at Victorville (KVCV) was used to store some of these unused jets. The controller graciously allowed me to fly over this runway and see these birds eager to get back to the sky. 
 ![](/images/KVCV.png){:width="800px"}
