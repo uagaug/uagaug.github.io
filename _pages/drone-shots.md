@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2020 Aug Los Angeles International Airport
 I passed my checkride and am now a private pilot! Took a friend of mine for an aerial tour of Los Angeles. We followed the Special Flight Rule near Santa Monica and passed right above LAX. Can you spot the jet that is about to land at Runway 24R?
-![](/images/200810LAX.png){:width="800px"}
+![](/images/200810LAX.jpg){:width="800px"}
 
 ### 2020 May SoCal Logistics Airport
 The airline industry was hit hard by the COVID-19 pandemic. Where do they park all those planes not in use? Turns out Runway 3/21 at Victorville (KVCV) was used to store some of these unused jets. The controller graciously allowed me to fly over this runway and see these birds eager to get back to the sky. 
