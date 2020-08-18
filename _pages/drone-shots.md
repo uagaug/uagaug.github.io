@@ -48,5 +48,6 @@ Landing at Catalina Airport (KAVX) felt like landing on an aircraft carrier -- t
 <!-- ### 2018 May Alaska
 <iframe src="https://www.skypixel.com/photos/play/1c98d4fd-b66c-4984-afa4-7352df4d53fe?buttons=on" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe> -->
 
-<!-- ### 2017 December Seattle Snow
-<iframe src="https://www.skypixel.com/photos/play/ad5da5c3-b951-4a27-8914-d3174ea7b96e?buttons=on" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginwidth="0px" height="800px" width="800px" allowfullscreen></iframe> -->
+### 2017 December Seattle Snow
+
+<a href="https://www.skypixel.com/photos/play/ad5da5c3-b951-4a27-8914-d3174ea7b96e?buttons=on" target="_blank">360 panorama</a>
