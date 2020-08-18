@@ -33,9 +33,7 @@ Landing at Catalina Airport (KAVX) felt like landing on an aircraft carrier -- t
 
 ### 2019 December Stockholm, Sweden
 
-<a href="http://www.skypixel.com/photos/play/191213-stockholm?buttons=on" target="_blank">Open pano in new tab</a>
-
-<iframe src="http://www.skypixel.com/photos/play/191213-stockholm?buttons=on" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginwidth="0px" height="800px" width="800px" allowfullscreen embedded=true></iframe>
+<a href="http://www.skypixel.com/photos/play/191213-stockholm?buttons=on" target="_blank">See 360 panorama here.</a>
 
 ### 2019 June Moorea, French Polynesia
 ![](/images/IMG_0548.JPG){:width="800px"}
