@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[13] Yu, M., Zhao, Z., **Chen, Z.**, Le, S., Yan, J., 2020. Modulating mechanical stability of heterodimerization between engineered orthogonal helical domains. _**Nat. Commun.**_ 11, 4476.
+
+* One of my favorite  features of the designed heterodimers in Ref [5] is that they are modular and programmable. Using a single molecule technique called magnetic tweezers, Jie Yan and his lab showed that the mechanical stability of these heterodimers can be modularly tuned in a wide range simply by changing the stretching points and number of helices. [PDF](/files/2020NatCom.pdf)
+
 [12] **Chen, Z.**, Kibler, R.D., Hunt, A., Busch, F., Pearl, J., Jia, M., VanAernum, Z.L., Wicky, B.I.M., Dods, G., Liao, H., Wilken, M.S., Ciarlo, C., Green, S., El-Samad, H., Stamatoyannopoulos, J., Wysocki, V.H., Jewett, M.C., Boyken, S.E., Baker, D., (2020). De novo design of protein logic gates. _**Science**_ 368, 7884.
 
 * Synthetic biology has traditionally focused on building nucleic acid-based circuits, thanks to the ease of programming DNA or RNA molecules. Now that we have proteins that behave in a similar way (Refs 2, 5, 10), wouldn't it be fun to build protein-based circuits? Here we demonstrate a way to create logic gates from scratch, using _de novo_ designed heterodimers. These building blocks offer not only programmability, but also robustness and transferability: they work as purified proteins, in cell-free extracts, yeasts, and T cells. [PDF](/files/2020science.pdf)
