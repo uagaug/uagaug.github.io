@@ -15,7 +15,7 @@ The Bobcat fire in Sep 2020 produced tons of smoke in the San Gabriel valley. As
 On a clear day:
 
 
-![](/images/Caltech_clear.jpg){:width="800px"}
+![](/images/Caltech_clear.JPG){:width="800px"}
 
 
 ### 2020 Aug Los Angeles International Airport
