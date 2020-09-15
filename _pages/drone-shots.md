@@ -7,6 +7,17 @@ author_profile: true
 
 ## I love traveling with my DJI Mavic Pro. In 2019 I started my private pilot training. Here are some aerial photos taken from the Mavic, or a Cessna.
 
+### 2020 Sep Bobcat Fire
+The Bobcat fire in Sep 2020 produced tons of smoke in the San Gabriel valley. As a result the visibility became so low that Mt Wilson turned invisible. 
+
+![](/images/Caltech_fire.PNG){:width="800px"}
+
+On a clear day:
+
+
+![](/images/Caltech_clear.jpg){:width="800px"}
+
+
 ### 2020 Aug Los Angeles International Airport
 I passed my checkride and am now a private pilot! Took a friend of mine for an aerial tour of Los Angeles. We followed the Special Flight Rule near Santa Monica and passed right above LAX. Can you spot the landing jet at the bottom left corner?
 
