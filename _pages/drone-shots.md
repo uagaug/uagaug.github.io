@@ -8,7 +8,7 @@ author_profile: true
 ## I love traveling with my DJI Mavic Pro. In 2020 I became a private pilot. Here are some aerial photos taken from the Mavic, a Cessna, or a Piper.
 
 ### 2020 Dec Furnace Creek Airport 
-The Furnace Creek airport inside the Death Valley National Park is 64 meters below the sea level. That means a negative reading on the altimeter! 
+The Furnace Creek airport (L06) inside the Death Valley National Park is 64 meters below sea level. That means a negative reading on the altimeter! 
 
 ![](/images/neg_altimeter.jpg){:width="800px"}
 
