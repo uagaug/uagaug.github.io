@@ -7,6 +7,15 @@ author_profile: true
 
 ## I love traveling with my DJI Mavic Pro. In 2020 I became a private pilot. Here are some aerial photos taken from the Mavic, a Cessna, or a Piper.
 
+### 2020 Dec Furnace Creek Airport 
+The Furnace Creek airport inside the Death Valley National Park is 64 meters below the sea level. That means a negative reading on the altimeter! 
+
+![](/images/neg_altimeter.jpg){:width="800px"}
+
+The ride over the desert was quite bumpy, but totally worth it for the view. 
+
+![](/images/death_valley.jpg){:width="800px"}
+
 ### 2020 Sep Bobcat Fire
 The Bobcat fire in Sep 2020 produced tons of smoke in the San Gabriel valley. As a result the visibility became so low that Mt Wilson turned invisible. 
 
