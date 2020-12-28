@@ -5,7 +5,7 @@ permalink: /drone-shots/
 author_profile: true
 ---
 
-## I love traveling with my DJI Mavic Pro. In 2019 I started my private pilot training. Here are some aerial photos taken from the Mavic, or a Cessna.
+## I love traveling with my DJI Mavic Pro. In 2020 I became a private pilot. Here are some aerial photos taken from the Mavic, a Cessna, or a Piper.
 
 ### 2020 Sep Bobcat Fire
 The Bobcat fire in Sep 2020 produced tons of smoke in the San Gabriel valley. As a result the visibility became so low that Mt Wilson turned invisible. 
