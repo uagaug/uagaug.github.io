@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[14] **Chen, Z.**, Elowitz, M.B. (2021). Programmable protein circuit design. **Cell** Online ahead of print: https://www.cell.com/cell/fulltext/S0092-8674(21)00292-0.
+[14] **Chen, Z.**, Elowitz, M.B. (2021). Programmable protein circuit design. _**Cell**_ Online ahead of print: https://www.cell.com/cell/fulltext/S0092-8674(21)00292-0.
 
 * In cells, proteins act collectively to sense, transmit, process signals, and generate dynamic control over cellular behaviors. How can we design protein-level circuits by programming proteins and their interactions? In this review, we attempt to establish design principles, highlight past work, and suggest future directions in the new field of protein circuit design. [PDF](/files/2021Cell.pdf)
 
