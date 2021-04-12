@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+[14] **Chen, Z.**, Elowitz, M.B. (2021). Programmable protein circuit design. **Cell** DOI: https://doi.org/10.1016/j.cell.2021.03.007.
+
+* In cells, proteins act collectively to sense, transmit, process signals, and generate dynamic control over cellular behaviors. How can we design protein-level circuits by programming proteins and their interactions? In this review, we attempt to establish design principles, highlight past work, and suggest future directions in the new field of protein circuit design. [PDF](/files/2021Cell.pdf)
+
 [13] Yu, M., Zhao, Z., **Chen, Z.**, Le, S., Yan, J., 2020. Modulating mechanical stability of heterodimerization between engineered orthogonal helical domains. _**Nat. Commun.**_ 11, 4476.
 
 * One of my favorite  features of the designed heterodimers in Ref [5] is that they are modular and programmable. Using a single molecule technique called magnetic tweezers, Jie Yan and his lab showed that the mechanical stability of these heterodimers can be modularly tuned in a wide range simply by changing the stretching points and number of helices. [PDF](/files/2020NatCom.pdf)
