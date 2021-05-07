@@ -20,11 +20,11 @@ Monument Valley
 
 Winslow Crater
 
-![](/images/Crater.jpg){:width="800px"}
+![](/images/Crater.JPG){:width="800px"}
 
 Grand Canyon
 
-![](/images/GrandCanyon.jpg){:width="800px"}
+![](/images/GrandCanyon.PNG){:width="800px"}
 
 ### 2021 Apr San Diego Bay Tour
 The San Diego Bay Tour route allows you to fly 500 feet above ground through the channel -- as long as you obtain clearance into the Class Bravo airspace. Here is a shot of the USS Midway Museum, with downtown San Diego in the background. 
