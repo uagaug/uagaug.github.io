@@ -10,7 +10,7 @@ author_profile: true
 ### 2021 May Wild West
 This is a 3-day trip to celebrate my first 100 hours of flying. The landscape of the wild west is simply out of this world. 
 
-Sedona Airport
+Sedona Airport (KSEZ), also known as USS Sedona, because it sits on top of a mesa.
 
 ![](/images/Sedona.jpg){:width="800px"}
 
