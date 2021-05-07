@@ -7,6 +7,30 @@ author_profile: true
 
 ## I love traveling with my DJI Mavic Pro. In 2020 I became a private pilot. Here are some aerial photos taken from the Mavic, a Cessna, or a Piper.
 
+### 2021 May Wild West
+This is a 3-day trip to celebrate my first 100 hours of flying. The geography of the wild west is simply out of this world. 
+
+Sedona Airport
+
+![](/images/Sedona.jpg){:width="800px"}
+
+Monument Valley
+
+![](/images/MonumentValley.jpg){:width="800px"}
+
+Winslow Crater
+
+![](/images/Crater.jpg){:width="800px"}
+
+Grand Canyon
+
+![](/images/GrandCanyon.jpg){:width="800px"}
+
+### 2021 Apr San Diego Bay Tour
+The San Diego Bay Tour route allows you to fly 500 feet above ground through the channel -- as long as you obtain clearance into the Class Bravo airspace. Here is a shot of the USS Midway Museum, with downtown San Diego in the background. 
+
+![](/images/SanDiego.jpg){:width="800px"}
+
 ### 2020 Dec Furnace Creek Airport 
 The Furnace Creek airport (L06) inside the Death Valley National Park is 64 meters below sea level. That means a negative reading on the altimeter! 
 
