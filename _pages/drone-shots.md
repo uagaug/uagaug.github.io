@@ -8,7 +8,7 @@ author_profile: true
 ## I love traveling with my DJI Mavic Pro. In 2020 I became a private pilot. Here are some aerial photos taken from the Mavic, a Cessna, or a Piper.
 
 ### 2021 May Wild West
-This is a 3-day trip to celebrate my first 100 hours of flying. The geography of the wild west is simply out of this world. 
+This is a 3-day trip to celebrate my first 100 hours of flying. The landscape of the wild west is simply out of this world. 
 
 Sedona Airport
 
