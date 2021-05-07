@@ -14,13 +14,13 @@ Sedona Airport (KSEZ), also known as USS Sedona, because it sits on top of a mes
 
 ![](/images/Sedona.jpg){:width="800px"}
 
-Monument Valley
-
-![](/images/MonumentValley.jpg){:width="800px"}
-
 Winslow Crater
 
 ![](/images/Crater.JPG){:width="800px"}
+
+Monument Valley
+
+![](/images/MonumentValley.jpg){:width="800px"}
 
 Grand Canyon
 
